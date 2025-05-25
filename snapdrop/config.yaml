@@ -18,4 +18,4 @@ schema: {}
 url: https://snapdrop.net/
 panel_icon: mdi:broadcast
 ingress: true
-ingress_port: 80
+ingress_port: 3000
