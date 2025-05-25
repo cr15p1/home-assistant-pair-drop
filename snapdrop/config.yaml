@@ -1,8 +1,8 @@
 ---
-name: Snapdrop
+name: PairDrop
 version: '0.1-alpha'
-slug: snapdrop
-description: Snapdrop is a AirDrop-like progressive web app that transfers files between
+slug: pairdrop
+description: PairDrop is a AirDrop-like progressive web app that transfers files between
   browsers (or in this case Home Assistant clients). Data is transfered between machines
   on the same IP subnet / LAN network using WebRTC with traffic being encrypted in transit.
 init: false
